@@ -21,11 +21,13 @@ https://developer.mozilla.org/en-US/docs/Mozilla/QA
 
 https://wiki.mozilla.org/QA/Execution/Web_Testing/Automation
 
-https://github.com/systers/automated-testing/tree/develop/PortalVMSTests
+https://github.com/systers/automated-testing/tree/develop/PortalVMSTests/
 
 http://rogerdudler.github.io/git-guide/
 
 http://guides.beanstalkapp.com/version-control/git-on-windows.html
+
+https://www.ntu.edu.sg/home/ehchua/programming/howto/Git_HowTo.html
 
 https://gist.github.com/Marlena/926431
 
