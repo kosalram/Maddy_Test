@@ -5,7 +5,7 @@ python:
 install:
   - travis_retry pip install -q mock nose PyHamcrest
   - travis_retry pip install behave
-  - python setup.py -q install
+ 
 
 script:
   - python --version
