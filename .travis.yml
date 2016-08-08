@@ -9,5 +9,5 @@ install:
 
 script:
   - python --version
-  - behave -f progress --junit features/
+  - behave --junit
  
