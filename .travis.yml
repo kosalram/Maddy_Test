@@ -1,0 +1,13 @@
+language: python
+sudo: false
+python:
+  - "2.7"
+install:
+  - travis_retry pip install -q mock nose PyHamcrest
+  - travis_retry pip install behave
+  - python setup.py -q install
+
+script:
+  - python --version
+  - behave -f progress --junit features/
+ 
